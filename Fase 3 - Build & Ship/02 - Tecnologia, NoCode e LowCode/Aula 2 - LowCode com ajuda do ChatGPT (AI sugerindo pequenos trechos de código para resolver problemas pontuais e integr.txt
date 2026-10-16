@@ -1,0 +1,8 @@
+Aula 2 - LowCode com ajuda do ChatGPT (AI sugerindo pequenos trechos de código para resolver problemas pontuais e integrações)
+Fase 3 - Build & Ship
+Capítulo: Tecnologia, NoCode e LowCode
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=582697&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=582702
+
+Obs.: links exigem login na plataforma FIAP.

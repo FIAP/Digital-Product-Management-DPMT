@@ -1,0 +1,8 @@
+Aula 2 - UI - Padrões, cores, responsividade, consistência e outros pilares de Design
+Fase 3 - Build & Ship
+Capítulo: Design de Produto
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=582690&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=582693
+
+Obs.: links exigem login na plataforma FIAP.

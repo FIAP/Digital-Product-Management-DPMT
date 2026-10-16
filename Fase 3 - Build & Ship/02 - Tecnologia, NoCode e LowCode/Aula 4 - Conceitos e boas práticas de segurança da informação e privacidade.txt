@@ -1,0 +1,8 @@
+Aula 4 - Conceitos e boas práticas de segurança da informação e privacidade
+Fase 3 - Build & Ship
+Capítulo: Tecnologia, NoCode e LowCode
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=582699&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=582704
+
+Obs.: links exigem login na plataforma FIAP.

@@ -1,0 +1,8 @@
+Aula 3 - Aceleradores de projeto - Templates, frameworks (MUI / Bootstrap), soluções No/Low Code (Wordpress / Wix)
+Fase 3 - Build & Ship
+Capítulo: Design de Produto
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=582691&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=582694
+
+Obs.: links exigem login na plataforma FIAP.
